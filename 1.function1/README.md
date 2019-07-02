@@ -4,7 +4,7 @@
 
 ```
 function reverseString(message){
-  // wirte your code here
+  
 }
 reverseString('hello'); // should return 'olleh'
 ```
